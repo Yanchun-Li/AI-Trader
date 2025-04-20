@@ -4,10 +4,32 @@ aider-chat
 backoff
 openai
 google-generativeai
-# Viz
+
+# Financial Data and Analysis
+yfinance
+pandas
+pandas-ta
+alpha_vantage
+requests
+beautifulsoup4
+newsapi-python
+
+# Technical Analysis
+ta-lib
+scipy
+statsmodels
+
+# Machine Learning
+scikit-learn
+tensorflow
+keras
+
+# Visualization
 matplotlib
-pypdf
-pymupdf4llm
+seaborn
+plotly
+mplfinance
+
 # Common Requirements
 torch
 numpy
@@ -16,3 +38,9 @@ datasets
 tiktoken
 wandb
 tqdm
+python-dotenv
+
+# PDF Generation
+reportlab
+pypdf
+pymupdf4llm
